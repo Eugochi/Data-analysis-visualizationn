@@ -1,3 +1,9 @@
+
+# Data-analysis-visualization
+
+This is a collective repository of all my data analysis projects and visualizations done using matplotlib and seaborns. 
+Using python, i have been able to perform analysis on real world data from companies like Uber, Netflix, Amazon Prime, Hulu, Disney, Youtube, McDonalds, American Universities and Austrialian shopping carts. From these analysis i am able to draw insightful findings and decision making that would help monitor and grow buinesses.
+
 ![image](https://github.com/Eugochi/Data-analysis-visualizationn/assets/123215066/e488751d-6a59-456e-881c-af92f17ba84c)
 ![image](https://github.com/Eugochi/Data-analysis-visualizationn/assets/123215066/6d215d82-a79c-4f73-9d90-728a93f90e0b)
 ![image](https://github.com/Eugochi/Data-analysis-visualizationn/assets/123215066/d5512c6d-e586-4df4-85d7-34fb54ddd8b5)
@@ -6,12 +12,6 @@
 ![image](https://github.com/Eugochi/Data-analysis-visualizationn/assets/123215066/23549466-b0d0-4da4-9672-e1cd387d42ae)
 
 
-
-
-# Data-analysis-visualization
-
-This is a collective repository of all my data analysis projects and visualizations done using matplotlib and seaborns. 
-Using python, i have been able to perform analysis on real world data from companies like Uber, Netflix, Amazon Prime, Hulu, Disney, Youtube, McDonalds, American Universities and Austrialian shopping carts. From these analysis i am able to draw insightful findings and decision making that would help monitor and grow buinesses.
 
 For example; we will use Python to answer questions such as:
 
