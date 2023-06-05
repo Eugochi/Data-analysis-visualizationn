@@ -53,6 +53,12 @@ For example; we will use Python to answer questions such as:
 7. Do students prefer a university because it belongs to a state with a high GDP per capita?
 8. Do students prefer a university based on the possibility of a higher, additional academic degree in the same university?
 
+![image](https://github.com/Eugochi/Data-analysis-visualizationn/assets/123215066/4f824a19-3337-4ffb-afdd-4cde9a004e2c)
+
+![image](https://github.com/Eugochi/Data-analysis-visualizationn/assets/123215066/0b3547eb-9abc-4618-8f4c-01d1d4e1a5f6)
+
+
+
 # Australian Shopping Cart
 
 1. Which products were sold the most in the last month?
