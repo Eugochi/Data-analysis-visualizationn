@@ -24,6 +24,9 @@ For example; we will use Python to answer questions such as:
 6. What Are The Trips In The Month
 7. The starting points of trips. Where Do People Start Boarding Their Trip From Most?
 
+![image](https://github.com/Eugochi/Data-analysis-visualizationn/assets/123215066/8c705328-fcfb-4269-8850-9b71029c9e96)
+
+
 # YOUTUBE
 1) Which category of videos have comments disabled ?
 2) Which category of videos have ratings disabled ?
@@ -35,6 +38,9 @@ For example; we will use Python to answer questions such as:
 
 # McDonald
 1. Nutritional facts in their menu
+
+![image](https://github.com/Eugochi/Data-analysis-visualizationn/assets/123215066/5c09ad82-aa84-49d0-996c-1f5539d071a9)
+
 
 # American University Analysis
 
@@ -55,6 +61,10 @@ For example; we will use Python to answer questions such as:
 
 # Movie Analysis
 1. To know the top rated movies for each movie platform (netflix, amazone prime, hulu & disney)
+2. 
+![image](https://github.com/Eugochi/Data-analysis-visualizationn/assets/123215066/f5deed8a-d3a1-43d8-8167-ed00e93588ff)
+
+![image](https://github.com/Eugochi/Data-analysis-visualizationn/assets/123215066/f40dd45a-8698-404f-b7c6-f568e0702b15)
 
 
 ## Installations
