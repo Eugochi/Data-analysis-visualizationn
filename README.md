@@ -6,6 +6,15 @@
 This is a collective repository of all my data analysis projects and visualizations done using matplotlib and seaborns. 
 Using python, i have been able to perform analysis on real world data from companies like Uber, Netflix, Amazon Prime, Hulu, Disney, Youtube, McDonalds, American Universities and Austrialian shopping carts. From these analysis i am able to draw insightful findings and decision making that would help monitor and grow buinesses.
 
+For example; we will use Python to:
+
+Check how long do people travel with Uber?
+What Hour Do Most People Take Uber To Their Destination?
+Check The Purpose Of Trips
+Which Day Has The Highest Number Of Trips
+What Are The Number Of Trips Per Each Day?
+What Are The Trips In The Month
+The starting points of trips. Where Do People Start Boarding Their Trip From Most?
 
 ## Installations
 
