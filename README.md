@@ -16,6 +16,21 @@ What Are The Number Of Trips Per Each Day?
 What Are The Trips In The Month
 The starting points of trips. Where Do People Start Boarding Their Trip From Most?
 
+YOUTUBE
+1) Which category of videos have comments disabled ?
+
+2) Which category of videos have ratings disabled ?
+
+3) Most watched video in India overall | Year wise | Category wise
+
+4) Yearwise number of Videos published which were trending
+
+5) Distributions of Numerical Columns
+
+6) View the correlations between the numerical variables
+
+7) Plot the lmplots and regplots with numerical and categorical variables combinations and their relationship
+
 ## Installations
 
 Libraries used in this projects
